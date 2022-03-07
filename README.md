@@ -1,15 +1,4 @@
- # MULTISCRIPT 2020
 
-# MultiGen
-#
-#### GENERADOR DE KEYS
-creditos: @conectedmx_vip
-#### 
-creditos: @conectedmx
-### 
-creditos: @alexmod80
-### 
-creditos: casitadelterror
 ### 
 creditos : internos de cada script
 ### 
